@@ -6,13 +6,14 @@ import ShopPage from "./pages/Shop";
 import ContactPage from "./pages/Contact";
 
 function App() {
+  console.log('ok')
   return (
     <div className="main-layout position_head">
-      {/* <div className="loader_bg">
+      <div className="loader_bg">
         <div className="loader">
           <img src="images/loading.gif" alt="#" />
         </div>
-      </div> */}
+      </div>
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/about" element={<AboutPage />} />
