@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sell-grass/static/css/main.e6c13ad2.css",
-    "main.js": "/sell-grass/static/js/main.e3ef4a7c.js",
+    "main.js": "/sell-grass/static/js/main.e369aee6.js",
     "index.html": "/sell-grass/index.html",
     "main.e6c13ad2.css.map": "/sell-grass/static/css/main.e6c13ad2.css.map",
-    "main.e3ef4a7c.js.map": "/sell-grass/static/js/main.e3ef4a7c.js.map"
+    "main.e369aee6.js.map": "/sell-grass/static/js/main.e369aee6.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e3ef4a7c.js"
+    "static/js/main.e369aee6.js"
   ]
 }
